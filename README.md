@@ -10,7 +10,7 @@ The Mathematica files with computation examples for the paper "On the addition o
 
 - The Mathematica notebook with examples for the model with hypercharge Y = 1/2 ["Quadruplet_Y12K.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y12K.nb).
 
-[Phase space for the case with Y = 0](images/tmp.gif)
+![Phase space for the case with Y = 0](images/4plet-Y0-300.gif)
 
 - For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/XXXX.XXXXX)] and [[2](https://arxiv.org/abs/2505.05272)].
 
