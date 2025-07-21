@@ -1,6 +1,8 @@
-# SM-quadruplet
+# Standard Model with added SU(2) quadruplet
 
-![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y32_400.gif)
+In this analysis, we consider an extension of the Standard Model by an SU(2) quadruplet of scalars with hypercharge 0, 1/2, or 3/2. Using exact analytical equations, we establish the boundaries of the phase spaces corresponding to the gauge-invariant terms that appear in the scalar potentials, as illustrated in the figures below.
+
+!["Phase space for the case with Y = 0"](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y32_400.gif)
 
 ![Phase space for the case with Y = 0](images/4plet-Y12_400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y12K_400.gif)
 
