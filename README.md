@@ -1,4 +1,4 @@
-# Standard Model with added *SU(2)* quadruplet
+# Standard Model Extended with an *SU(2)* Quadruplet
 
 In this analysis, we consider an extension of the Standard Model by an *SU(2)* quadruplet of scalars with hypercharge 0, 1/2, or 3/2. Using exact analytical equations, we establish the boundaries of the phase spaces corresponding to the gauge-invariant terms that appear in the scalar potentials, as illustrated in the figure below.
 
