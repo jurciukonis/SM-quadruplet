@@ -5,9 +5,10 @@ In this analysis, we consider an extension of the Standard Model by an *SU(2)* q
 ![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y32_400.gif)
 ![Phase space for the case with Y = 0](images/4plet-Y12_400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y12K_400.gif)
 
-Figure: The boundaries of the phase spaces are shown for the case *Y = 0* (top-left panel), *Y = 3/2* (top-right panel), *Y = 1/2* (bottom-left panel), and the non-renormalizable case *Y = 1/2* (bottom-right panel).
+*Figure: The boundaries of the phase spaces are shown for the case *Y = 0* (top-left panel), *Y = 3/2* (top-right panel), *Y = 1/2* (bottom-left panel), and the non-renormalizable case *Y = 1/2* (bottom-right panel).*
 
 For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/XXXX.XXXXX)] and [[2](https://arxiv.org/abs/2505.05272)].
+
 
 The Mathematica files with computation examples for the paper "On the addition of an *SU(2)* quadruplet of scalars to the Standard Model".
 
