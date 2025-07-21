@@ -2,9 +2,11 @@
 
 In this analysis, we consider an extension of the Standard Model by an SU(2) quadruplet of scalars with hypercharge 0, 1/2, or 3/2. Using exact analytical equations, we establish the boundaries of the phase spaces corresponding to the gauge-invariant terms that appear in the scalar potentials, as illustrated in the figures below.
 
-!["Phase space for the case with Y = 0"](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y32_400.gif)
+![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y32_400.gif)
 
 ![Phase space for the case with Y = 0](images/4plet-Y12_400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y12K_400.gif)
+
+*Figure 1: An illustrative figure showing the phase space boundaries.*
 
 
 The Mathematica files with computation examples for the paper "On the addition of an SU(2) quadruplet of scalars to the Standard Model".
@@ -15,7 +17,7 @@ The Mathematica files with computation examples for the paper "On the addition o
 
 - The Mathematica notebook with examples for the model with hypercharge Y = 1/2 ["Quadruplet_Y12.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y12.nb).
 
-- The Mathematica notebook with examples for the model with hypercharge Y = 1/2 ["Quadruplet_Y12K.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y12K.nb).
+- The Mathematica notebook with examples for the non-renormalizable model with hypercharge Y = 1/2 ["Quadruplet_Y12K.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y12K.nb).
 
 - For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/XXXX.XXXXX)] and [[2](https://arxiv.org/abs/2505.05272)].
 
