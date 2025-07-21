@@ -1,8 +1,8 @@
 # SM-quadruplet
 
-![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)
+![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y32-400.gif)
 
-![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y0-400.gif)
+![Phase space for the case with Y = 0](images/4plet-Y12-400.gif)       ![Phase space for the case with Y = 0](images/4plet-Y12K-400.gif)
 
 
 The Mathematica files with computation examples for the paper "On the addition of an SU(2) quadruplet of scalars to the Standard Model".
