@@ -12,13 +12,13 @@ For more information about the models and obtained results see refs. [[1](https:
 
 The Mathematica files with computation examples for the paper "On the addition of an *SU(2)* quadruplet of scalars to the Standard Model":
 
-- The Mathematica notebook with examples for the model with hypercharge *Y = 0* ["Quadruplet_Y0.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y0.nb).
+- The Mathematica notebook with examples for the model with hypercharge *Y = 0* ["Quadruplet_Y0.nb"](https://github.com/jurciukonis/SM-quadruplet/blob/main/Quadruplet_Y0.nb).
 
-- The Mathematica notebook with examples for the model with hypercharge *Y = 3/2* ["Quadruplet_Y32.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y32.nb).
+- The Mathematica notebook with examples for the model with hypercharge *Y = 3/2* ["Quadruplet_Y32.nb"](https://github.com/jurciukonis/SM-quadruplet/blob/main/Quadruplet_Y32.nb).
 
-- The Mathematica notebook with examples for the model with hypercharge *Y = 1/2* ["Quadruplet_Y12.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y12.nb).
+- The Mathematica notebook with examples for the model with hypercharge *Y = 1/2* ["Quadruplet_Y12.nb"](https://github.com/jurciukonis/SM-quadruplet/blob/main/Quadruplet_Y12.nb).
 
-- The Mathematica notebook with examples for the non-renormalizable model with hypercharge *Y = 1/2* ["Quadruplet_Y12K.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Quadruplet_Y12K.nb).
+- The Mathematica notebook with examples for the non-renormalizable model with hypercharge *Y = 1/2* ["Quadruplet_Y12K.nb"](https://github.com/jurciukonis/SM-quadruplet/blob/main/Quadruplet_Y12K.nb).
 
 
 **If you use files from the repository for a publication, please cite these references:**
